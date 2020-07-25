@@ -1,0 +1,2 @@
+# Forecast-Product-Price-at-the-time-of-sowing
+Forecast Produce Price At The Time Of Sowing - In India, the price of the commodity is dependent on various external factors such as area, yield, production, household food demand, feed demand, etc. In this regard, a mechanism that can use the data of past trends and other mentioned factors to forecast the prices of particular crops, taken into consideration the sowing patterns, weather, and many other related factors.
